@@ -1,7 +1,7 @@
 # (주)원더플레이스 클론코딩
 
  ## 메인 사이트
-<a href="https://wonderplace-jsqc0kai7-devstrcats-projects.vercel.app/" target="_blank">![이미지](images/mainsite.png)
+<a href="https://wonderplace.vercel.app/" target="_blank">![이미지](images/mainsite.png)
 </a>
 
 
